@@ -68,7 +68,7 @@
 🔹 [🍔 Tablenow](https://github.com/ManuelLopez2503o3/tablenow)  
 Sistema de pedidos enfocado en **lógica de negocio y gestión de datos** (PHP + MVC + MySQL)
 
-🔹 [🏥 Software Colposcopia.](https://github.com/ManuelLopez2503o3/Software-Colposcopia)  
+🔹  🔹 [🏥 Software Colposcopia](https://github.com/ManuelLopez2503o3/Software-Colposcopia.)
 Sistema para gestión clínica con enfoque en **manejo de información médica y backend**
 
 🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas)  
