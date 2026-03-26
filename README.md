@@ -80,7 +80,8 @@ PHP | MySQL | MVC
 
 ### 🔹 🏥 Sistema de Colposcopia
 
-Sistema backend para la gestión de información clínica enfocado en el manejo seguro y estructurado de datos médicos.
+ Aplicación web para la gestión de información clínica que permite el registro, control y visualización de datos de pacientes de forma estructurada.
+
 
 **🚀 Características:**
 
