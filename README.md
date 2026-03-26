@@ -1,9 +1,11 @@
+<!-- 🔥 Banner vino -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:800020&height=140&section=header&text=Alejandro%20López&fontSize=40&fontColor=800020&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=150&section=header&text=Alejandro%20López&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
-<!-- 👋 Typing vino -->
+
+<!-- 👋 Typing blanco -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=26&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%7C+APIs+%7C+SQL;Especialista+en+lógica+de+negocio;Construyendo+sistemas+eficientes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=26&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%7C+APIs+%7C+SQL;Especialista+en+lógica+de+negocio;Construyendo+sistemas+eficientes" />
 </p>
 
 ---
