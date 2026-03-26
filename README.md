@@ -1,4 +1,6 @@
-<!-- 🔥 Banner vino mejorado -->
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=800020&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
+</p>
 
  <!-- 🔥 Banner vino mejorado -->
 <p align="center">
