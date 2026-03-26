@@ -1,15 +1,13 @@
 <!-- 🔥 Banner vino mejorado -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=180&section=header&text=Alejandro%20López&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20APIs&descSize=18&descAlignY=75" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
 </p>
 
-<!-- 👋 Typing con fondo oscuro -->
-
+<!-- 👋 Typing vino con fondo oscuro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=26&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer;Especialista+en+Laravel+y+APIs;Enfocado+en+lógica+de+negocio;Construyendo+sistemas+escalables&background=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=28&center=true&vCenter=true&width=750&height=55&lines=Especialista+en+lógica+de+negocio;Diseño+de+APIs+eficientes;Optimización+de+sistemas+backend;Laravel+%7C+SQL+%7C+Arquitectura&background=0D1117" />
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mí
@@ -98,7 +96,7 @@ Sistema backend para la gestión de información clínica enfocado en el manejo 
 * Procesamiento estructurado de información
 
 **⚙️ Tecnologías:**
-PHP | MySQL
+React | MySQL
 
 👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia.
 
