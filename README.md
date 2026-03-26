@@ -1,12 +1,6 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:800020&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:800020&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
 </p>
-<!-- 👋 Typing vino SIN fondo -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=28&center=true&vCenter=true&width=750&height=55&lines=Especialista+en+lógica+de+negocio;Diseño+de+APIs+eficientes;Optimización+de+sistemas+backend;Laravel+%7C+SQL+%7C+Arquitectura" />
-</p>
----
-
 ## 👨‍💻 Sobre mí
 
 💻 Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables
