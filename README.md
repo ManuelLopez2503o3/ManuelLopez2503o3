@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:4B0000&height=140&section=header&text=Alejandro%20López&fontSize=35&fontColor=ffffff"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:800020&height=120&section=header&text=Alejandro%20López&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0000,100:800020&height=160&section=header&text=Alejandro%20López&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 <!-- 👋 Typing vino -->
 <p align="center">
