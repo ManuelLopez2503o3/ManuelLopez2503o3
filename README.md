@@ -76,7 +76,7 @@ Sistema de gestión de pedidos desarrollado con arquitectura MVC que optimiza la
 
 **🚀 Características:**
 
-* Gestión de pedidos (CRUD)
+* Gestión de pedidos (CRUDS)
 * Lógica de negocio estructurada
 * Manejo eficiente de base de datos
 
@@ -89,16 +89,15 @@ PHP | MySQL | MVC
 
 ### 🔹 🏥 Sistema de Colposcopia
 
-Sistema backend para la gestión de información clínica enfocado en el manejo seguro y estructurado de datos médicos.
+ Aplicación web para la gestión de información clínica que permite el registro, control y visualización de datos de pacientes de forma estructurada.
 
-**🚀 Características:**
+🚀 Características:
+- Gestión de pacientes (CRUD)
+- Manejo estructurado de información clínica
+- Interfaz dinámica con React
 
-* Registro y control de pacientes
-* Manejo de datos clínicos
-* Procesamiento estructurado de información
-
-**⚙️ Tecnologías:**
-PHP | MySQL
+⚙️ Tecnologías:
+React | MySQL
 
 👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia.
 
