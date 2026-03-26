@@ -49,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3&show_icons=true&theme=dark&title_color=800020&icon_color=800020&text_color=e5e5e5&bg_color=0d1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelLopez2503o3&theme=dark&ring=800020&fire=800020&currStreakLabel=800020&background=0d1117" />
 </p>
-
 ---
 
 ## 🐍 Contribuciones
