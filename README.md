@@ -1,25 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=&fontSize=40"/>
-</p>
-
-<h1 align="center" style="color:#800020; font-size:40px;">
-  Alejandro López
-</h1>
-
-<h3 align="center" style="color:#b3003c;">
-  Backend Developer | Laravel | APIs | SQL
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=24&center=true&vCenter=true&width=600&lines=Especialista+en+lógica+de+negocio;Diseño+de+APIs+REST;Optimización+de+bases+de+datos;Construyendo+sistemas+escalables" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-800020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Laravel-Expert-4B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/APIs-REST-800020?style=for-the-badge"/>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:800020&height=140&section=header&text=Alejandro%20López&fontSize=40&fontColor=800020&animation=fadeIn" />
 </p>
 <!-- 👋 Typing vino -->
