@@ -1,6 +1,8 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:800020&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:800020&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
 </p>
+
+---
 ## 👨‍💻 Sobre mí
 
 💻 Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables
