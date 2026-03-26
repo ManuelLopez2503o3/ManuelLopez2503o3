@@ -66,7 +66,7 @@
 ---
 
 ## 📌 Proyectos
-🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas)
+🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas) App web Gestion de perros en situacion de calle (Laravel + Postgress)
 🔹 [🍔 Tablenow](https://github.com/ManuelLopez2503o3/tablenow)Sistema de pedidos (PHP + MVC + MYSQL)  
 🔹 Plataforma de impacto social (React + Laravel)  
 
