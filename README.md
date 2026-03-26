@@ -91,7 +91,7 @@ PHP | MySQL | MVC
 **⚙️ Tecnologías:**
 React | MySQL
 
-👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia.
+👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia
 
 ---
 
