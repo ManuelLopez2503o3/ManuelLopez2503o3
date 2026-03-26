@@ -1,12 +1,13 @@
 <!-- 🔥 Banner vino mejorado -->
 
- <p align="center">
+ <!-- 🔥 Banner vino mejorado -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=200&section=header&text=Alejandro%20López&fontSize=52&fontColor=F5F5F5&animation=fadeIn&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Databases&descSize=20&descAlignY=70" />
 </p>
 
-<!-- 👋 Typing vino con fondo oscuro -->
+<!-- 👋 Typing vino SIN fondo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=28&center=true&vCenter=true&width=750&height=55&lines=Especialista+en+lógica+de+negocio;Diseño+de+APIs+eficientes;Optimización+de+sistemas+backend;Laravel+%7C+SQL+%7C+Arquitectura&background=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=28&center=true&vCenter=true&width=750&height=55&lines=Especialista+en+lógica+de+negocio;Diseño+de+APIs+eficientes;Optimización+de+sistemas+backend;Laravel+%7C+SQL+%7C+Arquitectura" />
 </p>
 ---
 
