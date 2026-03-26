@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hola,+soy+Manuel+Alejandro;Desarrollador+Backend;Laravel+%7C+React+%7C+SQL;Apasionado+por+la+tecnología" />
 </p>
 # 👋 Hola, soy Manuel Alejandro
