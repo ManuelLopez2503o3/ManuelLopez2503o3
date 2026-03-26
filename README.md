@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelLopez2503o3&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLopez2503o3&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🐍 Contribuciones
@@ -68,7 +63,7 @@
 🔹 [🍔 Tablenow](https://github.com/ManuelLopez2503o3/tablenow)  
 Sistema de pedidos enfocado en **lógica de negocio y gestión de datos** (PHP + MVC + MySQL)
 
-🔹  🔹 [🏥 Software Colposcopia](https://github.com/ManuelLopez2503o3/Software-Colposcopia.)
+🔹 [🏥 Software Colposcopia](https://github.com/ManuelLopez2503o3/Software-Colposcopia.)
 Sistema para gestión clínica con enfoque en **manejo de información médica y backend**
 
 🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas)  
