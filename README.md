@@ -1,7 +1,6 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/ManuelLopez2503o3/ManuelLopez2503o3/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ManuelLopez2503o3/ManuelLopez2503o3/main/Banner-Ale.png" width="100%" />
 </p>
-
 ---
 ## 👨‍💻 Sobre mí
 
