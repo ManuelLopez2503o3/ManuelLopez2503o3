@@ -59,14 +59,9 @@ Me enfoco en la **optimización de procesos**, lógica de negocio y creación de
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3
-&show_icons=true&theme=radical)
-
----
+ 
 
 ## 🌎 Información adicional
-- 🇲🇽 México
 - 📚 Inglés B1
 - 🧠 Enfoque en backend y optimización
 
@@ -74,3 +69,4 @@ Me enfoco en la **optimización de procesos**, lógica de negocio y creación de
 
 ## 📫 Contacto
 📧 Ml1549474@gmail.com
+5637160820
