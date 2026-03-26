@@ -59,7 +59,8 @@ Me enfoco en la **optimización de procesos**, lógica de negocio y creación de
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3
+&show_icons=true&theme=radical)
 
 ---
 
