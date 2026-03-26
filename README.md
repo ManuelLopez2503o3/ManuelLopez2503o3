@@ -66,6 +66,7 @@
 ---
 
 ## 📌 Proyectos
+🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas)
 🔹 Sistema de pedidos (Laravel + PostgreSQL)  
 🔹 Plataforma de impacto social (React + Laravel)  
 
