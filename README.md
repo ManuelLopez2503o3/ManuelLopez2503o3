@@ -1,22 +1,22 @@
-<!-- 🔥 Banner vino -->
+<!-- 🔥 Banner vino mejorado -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=150&section=header&text=Alejandro%20López&fontSize=42&fontColor=F5F5F5&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800020,100:4B0000&height=180&section=header&text=Alejandro%20López&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20APIs&descSize=18&descAlignY=75" />
 </p>
 
-<!-- 👋 Typing en vino con fondo oscuro -->
+<!-- 👋 Typing con fondo oscuro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&size=26&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer;Laravel+%7C+APIs+%7C+SQL;Especialista+en+lógica+de+negocio;Construyendo+sistemas+eficientes&background=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=26&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer;Especialista+en+Laravel+y+APIs;Enfocado+en+lógica+de+negocio;Construyendo+sistemas+escalables&background=0D1117" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-💻 Desarrollador enfocado en **Backend**
-⚙️ Especializado en **Laravel, APIs REST y bases de datos**
-🧠 Enfocado en **lógica de negocio y optimización de sistemas**
+💻 Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables
+⚙️ Experiencia en desarrollo de **APIs REST, lógica de negocio y manejo de datos**
+🧠 Interés en la **optimización de procesos y arquitectura backend**
 🎓 TSU en Desarrollo de Software | Ingeniería en curso
 
 ---
@@ -68,16 +68,56 @@
 
 ---
 
-## 📌 Proyectos
+## 📌 Proyectos Destacados
 
-🔹 [🍔 Tablenow](https://github.com/ManuelLopez2503o3/tablenow)
-Sistema de pedidos enfocado en **lógica de negocio y gestión de datos** (PHP + MVC + MySQL)
+### 🔹 🍔 Tablenow
 
-🔹 [🏥 Software Colposcopia](https://github.com/ManuelLopez2503o3/Software-Colposcopia.)
-Sistema para gestión clínica con enfoque en **manejo de información médica y backend**
+Sistema de gestión de pedidos desarrollado con arquitectura MVC que optimiza la administración de órdenes y el flujo de datos en entornos de restaurante.
 
-🔹 [🐶 Huellitas](https://github.com/ManuelLopez2503o3/huellitas)
-Plataforma de impacto social con **gestión de datos y conexión entre usuarios** (Laravel + PostgreSQL)
+**🚀 Características:**
+
+* Gestión de pedidos (CRUD)
+* Lógica de negocio estructurada
+* Manejo eficiente de base de datos
+
+**⚙️ Tecnologías:**
+PHP | MySQL | MVC
+
+👉 https://github.com/ManuelLopez2503o3/tablenow
+
+---
+
+### 🔹 🏥 Sistema de Colposcopia
+
+Sistema backend para la gestión de información clínica enfocado en el manejo seguro y estructurado de datos médicos.
+
+**🚀 Características:**
+
+* Registro y control de pacientes
+* Manejo de datos clínicos
+* Procesamiento estructurado de información
+
+**⚙️ Tecnologías:**
+PHP | MySQL
+
+👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia.
+
+---
+
+### 🔹 🐶 Huellitas
+
+Plataforma enfocada en la conexión entre usuarios para la gestión y apoyo a mascotas, utilizando arquitectura backend robusta.
+
+**🚀 Características:**
+
+* Gestión de usuarios
+* Conexión entre usuarios
+* Manejo de datos con enfoque social
+
+**⚙️ Tecnologías:**
+Laravel | PostgreSQL
+
+👉 https://github.com/ManuelLopez2503o3/huellitas
 
 ---
 
