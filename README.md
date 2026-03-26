@@ -5,10 +5,9 @@
 ---
 ## 👨‍💻 Sobre mí
 
-💻 Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables
-⚙️ Experiencia en desarrollo de **APIs REST, lógica de negocio y manejo de datos**
-🧠 Interés en la **optimización de procesos y arquitectura backend**
-🎓 TSU en Desarrollo de Software | Ingeniería en curso
+Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables Experiencia en desarrollo de **APIs REST, lógica de negocio y manejo de datos**
+Interés en la **optimización de procesos y arquitectura backend**
+ TSU en Desarrollo de Software | Ingeniería en curso
 
 ---
 
