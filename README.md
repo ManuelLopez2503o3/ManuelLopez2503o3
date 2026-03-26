@@ -1,6 +1,4 @@
- ![snake gif](https://github.com/ManuelLopez2503o3/ManuelLopez2503o3/blob/output/github-contribution-grid-snake.svg)
-/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLopez2503o3
 &layout=compact&theme=radical" />
 </p>
@@ -22,7 +20,8 @@ Soy estudiante de Ingeniería en Desarrollo de Software con experiencia en desar
 Me enfoco en la **optimización de procesos**, lógica de negocio y creación de sistemas eficientes.
 
 ---
-
+ ![snake gif](https://github.com/ManuelLopez2503o3/ManuelLopez2503o3/blob/output/github-contribution-grid-snake.svg)
+---
 ## 🚀 Tech Stack
 
 ### 💻 Lenguajes
