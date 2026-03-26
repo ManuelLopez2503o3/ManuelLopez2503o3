@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hola,+soy+Manuel+Alejandro;Desarrollador+Backend;Laravel+%7C+React+%7C+SQL;Apasionado+por+la+tecnología" />
+</p>
 # 👋 Hola, soy Manuel Alejandro
 
 💻 Desarrollador de Software enfocado en Backend  
