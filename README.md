@@ -12,34 +12,42 @@ Interés en la **optimización de procesos y arquitectura backend**
 ---
 
 ## 🚀 Tech Stack
-
 ### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-800020?style=for-the-badge\&logo=php\&logoColor=white\&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-800020?style=for-the-badge\&logo=java\&logoColor=white\&labelColor=000000)
-![REST API](https://img.shields.io/badge/API-4B0000?style=for-the-badge\&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-800020?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-4B0000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-4B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![REST API](https://img.shields.io/badge/API-800020?style=for-the-badge&labelColor=000000)
+
+---
 
 ### 🗄️ Bases de Datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-800020?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-4B0000?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=000000)
-![Oracle](https://img.shields.io/badge/Oracle-800020?style=for-the-badge\&logo=oracle\&logoColor=white\&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4B0000?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-800020?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4B0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![Oracle](https://img.shields.io/badge/Oracle-800020?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4B0000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+
+---
 
 ### 🌐 Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-800020?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-4B0000?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-800020?style=for-the-badge\&logo=css3\&logoColor=white\&labelColor=000000)
-![React](https://img.shields.io/badge/React-4B0000?style=for-the-badge\&logo=react\&logoColor=white\&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-4B0000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-4B0000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-800020?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
+
+---
 
 ### 🛠️ Tools
 
-![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-4B0000?style=for-the-badge\&logo=linux\&logoColor=white\&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-800020?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=000000)
-
----
+![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-4B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-4B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Bash](https://img.shields.io/badge/Bash-800020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000)
 
 ## 📊 GitHub Stats
 
