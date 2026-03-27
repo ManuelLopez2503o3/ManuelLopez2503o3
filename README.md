@@ -48,22 +48,6 @@ Interés en la **optimización de procesos y arquitectura backend**
 ![Git](https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-4B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![Bash](https://img.shields.io/badge/Bash-800020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3&show_icons=true&theme=dark&title_color=800020&icon_color=800020&text_color=e5e5e5&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelLopez2503o3&theme=dark&ring=800020&fire=800020&currStreakLabel=800020&background=0d1117" />
-</p>
-
----
-
-## 🐍 Contribuciones
-
-<p align="center">
-  <img src="https://github.com/ManuelLopez2503o3/ManuelLopez2503o3/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 📌 Proyectos Destacados
@@ -119,6 +103,23 @@ Laravel | PostgreSQL
 👉 https://github.com/ManuelLopez2503o3/huellitas
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelLopez2503o3&show_icons=true&theme=dark&title_color=800020&icon_color=800020&text_color=e5e5e5&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelLopez2503o3&theme=dark&ring=800020&fire=800020&currStreakLabel=800020&background=0d1117" />
+</p>
+
+---
+
+## 🐍 Contribuciones
+
+<p align="center">
+  <img src="https://github.com/ManuelLopez2503o3/ManuelLopez2503o3/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+ 
 
 ## 📫 Contacto
 
