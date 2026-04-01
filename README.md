@@ -1,24 +1,28 @@
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ManuelLopez2503o3/ManuelLopez2503o3/main/Banner-Ale.png" width="70%" />
 </p>
 
 ---
 ## 👨‍💻 Sobre mí
 
-Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables Experiencia en desarrollo de **APIs REST, lógica de negocio y manejo de datos**
-Interés en la **optimización de procesos y arquitectura backend**
- TSU en Desarrollo de Software | Ingeniería en curso
+Desarrollador Backend enfocado en la construcción de sistemas eficientes y escalables.  
+Experiencia en desarrollo de **APIs REST, autenticación con JWT y manejo de datos**.  
+Uso de herramientas como **Postman para validación de endpoints** y Git con flujo basado en ramas.  
+Interés en la **optimización de procesos y arquitectura backend**.  
+
+TSU en Desarrollo de Software | Ingeniería en curso
 
 ---
 
 ## 🚀 Tech Stack
+
 ### ⚙️ Backend
 
 ![PHP](https://img.shields.io/badge/PHP-800020?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
 ![Laravel](https://img.shields.io/badge/Laravel-4B0000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-4B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![REST API](https://img.shields.io/badge/API-800020?style=for-the-badge&labelColor=000000)
+![REST API](https://img.shields.io/badge/API%20REST-800020?style=for-the-badge&labelColor=000000)
 
 ---
 
@@ -47,7 +51,18 @@ Interés en la **optimización de procesos y arquitectura backend**
 ![Linux](https://img.shields.io/badge/Linux-4B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-4B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-800020?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
 ![Bash](https://img.shields.io/badge/Bash-800020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000)
+
+---
+
+## 🧠 Backend Skills
+
+- Desarrollo de APIs REST con Laravel (rutas, controladores y middleware)  
+- Pruebas y validación de endpoints utilizando Postman  
+- Implementación de autenticación mediante JWT para protección de rutas  
+- Uso de Git con flujo basado en ramas (Git Flow: feature branches, commits, pull requests)  
+
 ---
 
 ## 📌 Proyectos Destacados
@@ -71,8 +86,7 @@ PHP | MySQL | MVC
 
 ### 🔹 🏥 Sistema de Colposcopia
 
- Aplicación web para la gestión de información clínica que permite el registro, control y visualización de datos de pacientes de forma estructurada.
-
+Aplicación web para la gestión de información clínica que permite el registro, control y visualización de datos de pacientes de forma estructurada.
 
 **🚀 Características:**
 
@@ -83,7 +97,7 @@ PHP | MySQL | MVC
 **⚙️ Tecnologías:**
 React | MySQL
 
-👉  https://github.com/ManuelLopez2503o3/Software-Colposcopia
+👉 https://github.com/ManuelLopez2503o3/Software-Colposcopia
 
 ---
 
@@ -93,9 +107,10 @@ Plataforma enfocada en la conexión entre usuarios para la gestión y apoyo a ma
 
 **🚀 Características:**
 
-* Gestión de usuarios
-* Conexión entre usuarios
-* Manejo de datos con enfoque social
+* Desarrollo de APIs REST  
+* Validación de endpoints con Postman  
+* Gestión de usuarios y datos  
+* Arquitectura backend escalable  
 
 **⚙️ Tecnologías:**
 Laravel | PostgreSQL
@@ -103,6 +118,7 @@ Laravel | PostgreSQL
 👉 https://github.com/ManuelLopez2503o3/huellitas
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,9 +135,8 @@ Laravel | PostgreSQL
 </p>
 
 ---
- 
 
 ## 📫 Contacto
 
-📧 [Ml1549474@gmail.com](mailto:Ml1549474@gmail.com)
+📧 [Ml1549474@gmail.com](mailto:Ml1549474@gmail.com)  
 📱 5637160820
